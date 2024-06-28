@@ -3,7 +3,7 @@
 		<img src="assets/smartstore-icon-whitebg.png" alt="Smartstore" width="120">
 	</a>
 </p>
-Test Try 3
+Test Try 4
 <h3 align="center">
 	<img src="assets/smartstore-text.png" alt="Smartstore" width="250">
 </h3>
